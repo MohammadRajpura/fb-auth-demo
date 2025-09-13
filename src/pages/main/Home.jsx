@@ -7,7 +7,7 @@ const Home = () => {
       <div className="text-center space-y-6">
         {/* Big Title */}
         <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-gray-900">
-          Welcome to Our Platform
+          Welcome to Our Platform -- Your one-stop solution for all your needs
         </h1>
 
         {/* Subtitle (optional) */}
